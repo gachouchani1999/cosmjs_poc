@@ -1,0 +1,15 @@
+{
+  "name": "cosmjs-testing",
+  "version": "1.0.0",
+  "description": "CosmJS Proof of Stake for Stake Or Die",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@cosmjs/cosmwasm-stargate": "^0.27.0",
+    "typescript": "^4.5.4"
+  }
+}
